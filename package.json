@@ -1,0 +1,29 @@
+{
+  "name": "react-twitter-clone",
+  "version": "1.0.0",
+  "description": "Twitter clone, written in React, Flux, and Rails",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZizoRibeiro/react-twitter-clone.git"
+  },
+  "author": "zizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZizoRibeiro/react-twitter-clone/issues"
+  },
+  "homepage": "https://github.com/ZizoRibeiro/react-twitter-clone#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4"
+  }
+}
